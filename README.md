@@ -12,6 +12,7 @@ Escape has 2 modes available: mail:pass/email⭐
 # Installation : 
 
 -Launch Setup.bat
+
 -Launch Escape.py
 
 (Any Problem with my tool ? Contact me on telegram : Stxnd.lol
@@ -22,5 +23,4 @@ Enter a name file and choose a mode👻
 
 # Preview : 
 
-![1](https://github.com/iamlowkey/Escape/assets/102192500/1a513e83-ee91-4de6-998d-40bd10221834)
-![2](https://github.com/iamlowkey/Escape/assets/102192500/b28fde1c-08ec-4886-bb2f-2e98132765bc)
+
