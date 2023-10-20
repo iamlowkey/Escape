@@ -1,0 +1,12 @@
+requests
+os
+random
+string
+json
+sys
+argparse
+concurrent.futures
+NicksLibary
+colorama
+tqdm
+pystyle
